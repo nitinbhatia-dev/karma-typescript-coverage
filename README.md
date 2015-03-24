@@ -28,3 +28,6 @@ https://www.npmjs.com/package/karma
 to install karma globally use npm install -g karma
 
 To run type karma start from the root directory where this code is present.
+
+if the tests run successfully, you should be able to see coverage directory in the root directory of code.
+go to chrome or phantomjs directory and open index.html to see the coverage.
